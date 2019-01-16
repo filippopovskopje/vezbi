@@ -1,0 +1,86 @@
+.navbar-brand img{
+   width: 30px; 
+   display: inline;
+}
+.a-color a{
+    color: black;
+}
+.x{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.back{
+    background-image: url("mountains.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.green{
+    background-color: rgba(80, 90, 177, 0.466);
+    height: 100%;
+}
+.white{
+    color: white;
+}
+.white button{
+    background-color: transparent;
+    border: 1px solid black;
+}
+.white h1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 125px;
+}
+.x img{
+    width: 400px;
+}
+.black{
+    background: black;
+}
+.y1{
+    border: 1px blue solid;
+}
+.y1 h3{
+    color: blue;
+}
+.y2{
+    color: white;
+    background-color: blue;
+}
+.light-blue{
+    background: lightblue;
+}
+.light-blue h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: blue;
+}
+hr{
+    width: 650px;
+    border: 1px solid black !important;
+}
+.panel h5{
+color: black;
+}
+.panel{
+    margin-bottom: 0;
+    border: 1px solid black;
+    background-color: transparent;
+}
+.slika{
+    width: 150px;
+    border-radius: 100%;
+}
+.font8{
+    font-size: 25px;
+    color: blue;
+}
+.div1 > div{
+    border: 1px solid black;
+    margin-top: 85px;
+}
+.div1 img {
+    margin-top: -50px;
+}
+.panel-body{
+    background-color: white;
+}
